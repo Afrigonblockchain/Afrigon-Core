@@ -1,0 +1,6 @@
+usr/local/bin/afgn-qt usr/bin
+share/pixmaps/afgn32.xpm usr/share/pixmaps
+share/pixmaps/afgn16.xpm usr/share/pixmaps
+share/pixmaps/afgn128.png usr/share/pixmaps
+debian/afgn-qt.desktop usr/share/applications
+debian/afgn-qt.protocol usr/share/kde4/services/
